@@ -5,18 +5,6 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Rabbit4 {
-//    Koshei
-
-//    private Ocean1 ocean;
-//
-//    public String getRulesByDeth() {
-//        return "На свете есть океан , " + ocean.toString();
-//    }
-//
-//    @Autowired
-//    public void setOcean(Ocean1 ocean) {
-//        this.ocean = ocean;
-//    }
 
     private Duck5 duck5;
 
